@@ -6,8 +6,7 @@ Last Edited: September 27, 2020
 Sources:
 1.) Randomizer - https://www.tutorialspoint.com/c_standard_library/c_function_rand.htm#:~:text=The%20C%20library%20function%20int,to%20be%20at%20least%2032767.
 2.) RollingDie - https://codereview.stackexchange.com/questions/143834/dice-roll-program-in-c.
-3.) Runtime -
-https://levelup.gitconnected.com/8-ways-to-measure-execution-time-in-c-c-48634458d0f9.
+3.) Runtime - https://levelup.gitconnected.com/8-ways-to-measure-execution-time-in-c-c-48634458d0f9.
 */
 
 #include <stdio.h>
